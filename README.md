@@ -1,1 +1,1 @@
-# myfirstdartapp
+A simple command-line application.
